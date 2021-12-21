@@ -159,10 +159,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at divyansh@moodi.org or by post to:
 
-Mood Indigo
-Mood Indigo Office
-Student Activity Center, Maharashtra, IIT Area, Powai
-Mumbai, Maharashtra 400076
+Mood Indigo,\
+Mood Indigo Office,\
+Student Activity Center, Maharashtra, IIT Area, Powai\
+Mumbai, Maharashtra 400076,\
 India
 
 ### 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
